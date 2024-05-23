@@ -11,7 +11,7 @@ git clone
 ```
 
 ```
-conda create -p env pyhton=3.8 -t
+conda create -p env pyhton=3.10 -y
 ```
 
 ```
