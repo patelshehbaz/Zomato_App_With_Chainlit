@@ -8,4 +8,5 @@ Requires-Dist: notebook
 Requires-Dist: ipywidgets
 Requires-Dist: tqdm
 Requires-Dist: python-dotenv
-Requires-Dist: langchain-google-genai
+Requires-Dist: openai
+Requires-Dist: langchain
