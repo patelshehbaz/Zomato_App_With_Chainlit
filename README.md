@@ -4,6 +4,13 @@
 
 ## Description
 
+## Techstack
+
+- langchai
+- Chainlit
+- Gemini
+- Python
+
 ## How to run?
 
 ```
